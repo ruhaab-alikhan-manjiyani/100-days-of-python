@@ -1,0 +1,5 @@
+print ("Hello, World!")
+print ("Welcome to Day 1 of Python.")
+print ("I'm Ruhaab.")
+print ("I'm on a mission to become a coding ninja in 100 days!")
+print ("Let's Gooo..!!")
