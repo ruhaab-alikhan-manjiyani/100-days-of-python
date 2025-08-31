@@ -51,4 +51,4 @@ def calculator():
             print("Invalid operation. Please try again.")
         print("-"*30)
 
-        calculator()
+calculator()
